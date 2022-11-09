@@ -1,6 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-com/example/teambill/BuildConfig.java
- com.example.teambill.BuildConfig
-com/example/teambill/MainActivity.java
- com.example.teambill.MainActivity
